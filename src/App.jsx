@@ -1,3 +1,4 @@
+
 import { QueryClient, QueryClientProvider } from 'react-query';
 import { Routes, Route } from "react-router-dom";
 
@@ -20,6 +21,7 @@ function App() {
       </Routes>
       // <Headers/>
       // <Home/>
+
   );
 }
 
