@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Card } from 'antd';
 import house from "../../assets/house1.jpeg";
 import { ToastContainer, toast } from 'react-toastify';
