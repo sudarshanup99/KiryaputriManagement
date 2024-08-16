@@ -1,9 +1,23 @@
-import React from 'react'
+import Cards from "./Cards"
+
 
 const Home = () => {
   return (
-    <div>
-      
+    <div className="grid grid-cols-4 w-[85%] mx-auto mt-[80px]">
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
+      <Cards/>
     </div>
   )
 }
